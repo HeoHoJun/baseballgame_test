@@ -42,5 +42,3 @@ while (strike_number < 4):
 print("--------------------------")
 print("축하합니다! 정답입니다!")
 print("[",try_number,"]번 만에 맞췄습니다")
-print("ㅇㅇㅇㅇ")
-print("컴퓨터는 똥이다")
